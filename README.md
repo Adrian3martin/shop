@@ -23,7 +23,7 @@ The project has a total of 5 screens
 To install this application once you have the ipa, simply follow the instructions on this page [How to install an .ipa](https://medium.com/@itskaranzzz/how-to-install-ipa-file-directly-to-iphones-tabs-without-using-laptop-desktop-e645c36125d2)
 
 But pasting here to highlight the important part.
-
+```
 iTunes: This method doesn’t require any other software apart it to install iOS app(.ipa) to mobile device, just follow below steps and your good to use the app from your device:
 iTunes > App Library > drag and drop .ipa file > Install > Sync
 
@@ -31,7 +31,7 @@ Note: On a windows system you need to download iTunes first to install an .ipa f
 
 Xcode : Using xcode is the simplest way to install .ipa file is what I feel, if you have xcode installed on your Mac by just following below easy steps the app will be ready to explore:
 Xcode > cmd+shift+2 > devices > drag and drop .ipa file
-
+```
 I've found the `Xcode > cmd+shift+2` method to be easier on a mac.
 
 # Application Flow 
