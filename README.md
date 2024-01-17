@@ -1,3 +1,13 @@
+
+# Market America
+Below is the APN key, and a link to a page with documentation.  You can test the APIs with this key directly from this documentation page by following the “Authorize” button.
+ 
+Key: 76b99147dd61464cb77bd62fb3e5ee41
+https://developers.shop.com/externalapis/apn-services/
+ 
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +87,5 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
