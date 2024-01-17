@@ -20,7 +20,7 @@ The project has a total of 5 screens
 `core`
 
 # Installation
-To install this application once you have the ipa, simply follow the instructions on this page [How to install an .ipa](https://medium.com/@itskaranzzz/how-to-install-ipa-file-directly-to-iphones-tabs-without-using-laptop-desktop-e645c36125d2)
+To install this application once you have the ipa, simply follow the instructions on this page [How to install a .ipa](https://medium.com/@itskaranzzz/how-to-install-ipa-file-directly-to-iphones-tabs-without-using-laptop-desktop-e645c36125d2)
 
 But pasting here to highlight the important part.
 ```
@@ -40,7 +40,7 @@ Once your installed, you'll be asked to provide a profile picture, first and las
 
 After that, you'll be sent to the HomeScreen where you can view a simple, calm design that lists all categories from the shop API. 
 
-Each are clickable and will take you to the ProductsScreen where you'll get a list of max 20 products to view in more detail or add to your cart. If you click the image or title, you'll get the ProductDetail screen, and if you click the plus button you'll see the product has been added to your cart by the indicator on the cart icon (header right) being updated.
+Each are clickable and will take you to the ProductsScreen where you'll get a list of max 20 products to view in more detail or add to your cart. If you click the image or title, you'll get the ProductDetail screen. If you click the plus button you'll see the product has been added to your cart by the indicator on the cart icon (header right) being updated.
 
 If you choose to go to the Product Detail page, you'll see a simple page highlighting a larger image of the product, a description of the product, another method to add the item cart, or buy now using Apple Pay (not yet implemented).
 
@@ -48,13 +48,13 @@ If you do decide to go to the cart by clicking the cart icon in the top right, y
 
 # Desirable Next Steps
 
-To enhance this product I would incorporate a theme that make changing colors, and font sizes more consistent. Also, incorporate the profile details throughout the application. Currently we do not store the profile details and you would ultimately be sent back to the ProfileScreen after completely killing the app and restarting.
+To enhance this product I would incorporate a theme that makes changing colors, and font sizes more consistent. Also, incorporate the profile details throughout the application. Currently we do not store the profile details and you would ultimately be sent back to the ProfileScreen after completely killing the app and restarting.
 
 I would then start building out jest to build unit tests for each component within the project to ensure reliability. 
 
 # Limitations
 
-This project was built with IOS (Iphone) in mind, and not Ipad or Android. However, it is built in React Native as that would allow for this in future the pipeline. 
+This project was built with IOS (Iphone) in mind, and not Ipad or Android. However, it is built in React Native as that would allow for this in the future. 
 
 Profile data isn't saved, and purchases aren't made in this version.
 
