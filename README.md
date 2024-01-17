@@ -2,9 +2,22 @@
 
 This project is designed to be easy to read as a simple mobile React Native project.
 
-The project has a total of 5 screens `ProfileScreen, HomScreen, ProductScreen, ProductDetail, CartScreen`;
+The project has a total of 5 screens 
+`ProfileScreen, HomScreen, ProductScreen, ProductDetail, CartScreen`;
 
-To install this application simple follow the instructions on this page
+4 Reusable Components
+`CartIcon, Category, Product, ProductSmall`
+
+2 Reusable Interfaces
+`category, product`
+
+1 Action/Reducer to manage cart state throughout the app
+`cart`
+
+1 Core file to mange api and other core functions in the future
+`core`
+
+To install this application once you have the ipa, simply follow the instructions on this page [How to install an .ipa](https://medium.com/@itskaranzzz/how-to-install-ipa-file-directly-to-iphones-tabs-without-using-laptop-desktop-e645c36125d2)
 
 But pasing here to highlight the important part 
 
